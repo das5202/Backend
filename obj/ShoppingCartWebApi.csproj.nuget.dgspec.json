@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\casestudy\\Shopify_Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj": {}
+    "E:\\Shopping\\Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj": {}
   },
   "projects": {
-    "E:\\casestudy\\Shopify_Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj": {
+    "E:\\Shopping\\Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\casestudy\\Shopify_Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj",
+        "projectUniqueName": "E:\\Shopping\\Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj",
         "projectName": "ShoppingCartWebApi",
-        "projectPath": "E:\\casestudy\\Shopify_Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj",
+        "projectPath": "E:\\Shopping\\Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj",
         "packagesPath": "C:\\Users\\Vs\\.nuget\\packages\\",
-        "outputPath": "E:\\casestudy\\Shopify_Backend\\ShoppingCartWebApi\\obj\\",
+        "outputPath": "E:\\Shopping\\Backend\\ShoppingCartWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vs\\AppData\\Roaming\\NuGet\\NuGet.Config",

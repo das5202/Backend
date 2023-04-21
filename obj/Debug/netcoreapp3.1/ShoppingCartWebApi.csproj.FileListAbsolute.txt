@@ -317,3 +317,12 @@ E:\casestudy\Shopify_Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\Shopping
 E:\casestudy\Shopify_Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.dll
 E:\casestudy\Shopify_Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.pdb
 E:\casestudy\Shopify_Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.genruntimeconfig.cache
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.csproj.AssemblyReference.cache
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.AssemblyInfoInputs.cache
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.AssemblyInfo.cs
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.csproj.CoreCompileInputs.cache
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.dll
+E:\Shopping\Backend\ShoppingCartWebApi\obj\Debug\netcoreapp3.1\ShoppingCartWebApi.pdb

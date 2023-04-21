@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wubh5ZftRyWLSTgUF+AQOWtnlmHFNbI+xaSN4earhfADb/XtK8+NPuiF5Hd/3SOhFWztb7CIUbOqJF2CqcvXyA==",
+  "dgSpecHash": "tZyp5l7W2pcMuFI4oMl5ZNMR7tf1soXnrr6dp5bueg3H6nILNzxnobSuJKP1nBBEGu7AZtNH6NdobT81Y0u1dA==",
   "success": true,
-  "projectFilePath": "E:\\casestudy\\Shopify_Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj",
+  "projectFilePath": "E:\\Shopping\\Backend\\ShoppingCartWebApi\\ShoppingCartWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vs\\.nuget\\packages\\mailkit\\3.4.1\\mailkit.3.4.1.nupkg.sha512",
     "C:\\Users\\Vs\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.0\\microsoft.aspnetcore.authentication.jwtbearer.3.1.0.nupkg.sha512",
